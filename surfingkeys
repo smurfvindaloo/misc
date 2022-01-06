@@ -1,7 +1,3 @@
-const {
-    unmapAllExcept,
-    RUNTIME
-} = api;
 settings.tabsMRUOrder = false;
 settings.hintExplicit = true;
 settings.stealFocusOnLoad = false;
