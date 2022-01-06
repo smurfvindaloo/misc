@@ -3,7 +3,7 @@ settings.hintExplicit = true;
 settings.stealFocusOnLoad = false;
 settings.digitForRepeat = false;
 settings.tabsThreshold = 50;
-unmapAllExcept(['f','t','T']);
+api.unmapAllExcept(['f','t','T']);
 map('<Ctrl-Alt-l>', 'f');
 map('<Ctrl-Alt-t>', 't');
 map('<Ctrl-Alt-y>', 'T');
